@@ -1,1 +1,1 @@
-const a = "A";
+const a = "更新してみた。";

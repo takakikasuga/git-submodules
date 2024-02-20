@@ -1,0 +1,3 @@
+[submodule "submodules/git-submodules-reference"]
+	path = submodules/git-submodules-reference
+	url = git@github.com:takakikasuga/git-submodules-reference.git
